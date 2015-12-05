@@ -53,3 +53,7 @@
 - name: "Ubuntu 12.04 LTS (Precise)"
   default: 5.3.10
   family: linux
+
+- name: "Ubuntu 15.10 (Wily)"
+  default: 5.6.11
+  family: linux
